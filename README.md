@@ -131,7 +131,7 @@ Evaluated on a stratified, held-out split of the **NIST Juliet C/C++ Test Suite 
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/depatchx.git
+git clone https://github.com/bkshukla91/depatchx.git
 cd depatchx
 
 pip install -r requirements.txt
