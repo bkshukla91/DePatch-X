@@ -1,0 +1,8 @@
+torch
+torch-geometric
+transformers
+rich
+requests
+python-dotenv
+fpdf2
+pyfiglet
