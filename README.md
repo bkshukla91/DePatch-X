@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ DePatchX
+# 🛡️ DePatch-X
 
 ### Attention-Grounded Explainable Graph Neural Network Framework for Vulnerability Detection & Automated Patch Generation in C/C++
 
